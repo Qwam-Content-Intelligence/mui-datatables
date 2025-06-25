@@ -1,3 +1,8 @@
+# MIGRATION TO GITLAB
+
+repository is archived and migrated to gitlab deveryware on 25 june 2025
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/19170080/34070522-e15d32e2-e235-11e7-8af5-fa704cdcad56.png" />
 </div>
